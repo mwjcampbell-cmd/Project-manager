@@ -1,0 +1,1 @@
+console.log('Builder Project Manager app.js loaded');
